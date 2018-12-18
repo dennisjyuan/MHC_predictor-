@@ -1,6 +1,6 @@
 # MHC_predictor-
-#MHC affinity predictor 
-/n
-ECBME4060 Final Project
-/n
-by: Nicole Blumenfeld, Lingting Shi, Dennis Yuan
+#MHC affinity predictor   
+
+ECBME4060 Final Project  
+
+by: Nicole Blumenfeld, Lingting Shi, Dennis Yuan  
